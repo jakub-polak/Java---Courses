@@ -1,6 +1,7 @@
 package com.jpolak;
 
 public class Hamburger {
+
     private String name;
     private double price;
     private String breadRollType;
@@ -61,7 +62,11 @@ public class Hamburger {
             System.out.println("Added " + this.addition4Name + " for an extra " + this.addition4Price + "$");
             hamburgerPrice += this.addition4Price;
         }
-        System.out.printf(this.name + " hamburger with all additives price: %.2f$\n", hamburgerPrice);
+
         return hamburgerPrice;
+    }
+
+    public String getBreadRollType() {
+        return breadRollType;
     }
 }
