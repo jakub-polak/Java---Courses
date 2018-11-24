@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6011fb14-119b-4819-9eaf-777a9d8d8fd2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/jpolak/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jpolak/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,19 +15,21 @@
     <session id="-791392344">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.5" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="8" />
-          <entry key="java" value="2599" />
+          <entry key="java" value="2610" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="2599" />
+          <entry key="JAVA" value="2610" />
           <entry key="PLAIN_TEXT" value="8" />
         </counts>
       </usages-collector>
@@ -46,55 +46,7 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/jpolak/Song.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="276">
-              <caret line="12" selection-start-line="12" selection-end-line="12" />
-              <folding>
-                <element signature="e#272#273#0" expanded="true" />
-                <element signature="e#307#308#0" expanded="true" />
-                <element signature="e#338#339#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/jpolak/Album.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="436">
-              <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
-              <folding>
-                <element signature="e#353#354#0" expanded="true" />
-                <element signature="e#382#383#0" expanded="true" />
-                <element signature="e#414#415#0" expanded="true" />
-                <element signature="e#442#443#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/Desktop/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="69">
-              <caret line="120" column="28" selection-start-line="120" selection-start-column="28" selection-end-line="120" selection-end-column="102" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/jpolak/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="483">
-              <caret line="141" column="113" selection-start-line="141" selection-start-column="113" selection-end-line="141" selection-end-column="113" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -119,45 +71,20 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-663" />
-    <option name="y" value="188" />
+    <option name="x" value="-664" />
+    <option name="y" value="187" />
     <option name="width" value="2740" />
-    <option name="height" value="1278" />
+    <option name="height" value="1279" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="LinkedList - Challenge" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LinkedList - Challenge" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LinkedList - Challenge" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LinkedList - Challenge" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LinkedList - Challenge" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LinkedList - Challenge" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="jpolak" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
+    <panes />
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542997322999" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543003844622" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -196,13 +123,12 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.Playlist" />
       <item itemvalue="Application.Main" />
-      <item itemvalue="Application.PlayPlaylist" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.PlayPlaylist" />
       </list>
     </recent_temporary>
   </component>
@@ -247,40 +173,21 @@
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
       <window_info anchor="right" id="Maven Projects" order="7" />
-      <window_info active="true" anchor="right" x="-427" y="89" width="392" height="564" id="Run" order="8" visible="true" weight="0.3865772" />
+      <window_info anchor="right" x="-427" y="89" width="392" height="564" id="Run" order="8" weight="0.3865772" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/Desktop/Song.java">
+    <entry file="file://$USER_HOME$/Desktop/Song.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/jpolak/Playlist.java" />
+    <entry file="file://$USER_HOME$/Desktop/Album.java" />
+    <entry file="file://$USER_HOME$/Desktop/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/jpolak/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#362#363#0" expanded="true" />
-            <element signature="e#418#419#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jpolak/Playlist.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="460">
-          <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
-          <folding>
-            <element signature="e#170#171#0" expanded="true" />
-            <element signature="e#210#211#0" expanded="true" />
-            <element signature="e#244#245#0" expanded="true" />
-            <element signature="e#275#276#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/Album.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="31" column="13" lean-forward="true" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
+        <state relative-caret-position="368">
+          <caret line="16" column="18" lean-forward="true" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
         </state>
       </provider>
     </entry>
@@ -288,12 +195,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="436">
           <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
-          <folding>
-            <element signature="e#353#354#0" expanded="true" />
-            <element signature="e#382#383#0" expanded="true" />
-            <element signature="e#414#415#0" expanded="true" />
-            <element signature="e#442#443#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -301,25 +202,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="276">
           <caret line="12" selection-start-line="12" selection-end-line="12" />
-          <folding>
-            <element signature="e#272#273#0" expanded="true" />
-            <element signature="e#307#308#0" expanded="true" />
-            <element signature="e#338#339#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="120" column="28" selection-start-line="120" selection-start-column="28" selection-end-line="120" selection-end-column="102" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jpolak/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="483">
-          <caret line="141" column="113" selection-start-line="141" selection-start-column="113" selection-end-line="141" selection-end-column="113" />
         </state>
       </provider>
     </entry>
