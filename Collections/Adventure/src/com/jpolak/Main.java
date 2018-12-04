@@ -52,7 +52,22 @@ public class Main {
             }
             System.out.println();
 
-            String direction = scanner.nextLine().toUpperCase();
+            String directionString = scanner.nextLine().toUpperCase();
+            String direction = "";
+            String[] directionSplitted = directionString.split(" ");
+            for(int i = 0; i < directionSplitted.length; i++) {
+                if (directionSplitted[i].compareTo("N") == 0 || directionSplitted[i].compareTo("NORTH") == 0) {
+                    direction = "N";
+                } else if (directionSplitted[i].compareTo("E") == 0 || directionSplitted[i].compareTo("EAST") == 0) {
+                    direction = "E";
+                } else if (directionSplitted[i].compareTo("S") == 0 || directionSplitted[i].compareTo("SOUTH") == 0) {
+                    direction = "S";
+                } else if (directionSplitted[i].compareTo("W") == 0 || directionSplitted[i].compareTo("WEST") == 0) {
+                    direction = "W";
+                } else if (directionSplitted[i].compareTo("Q") == 0 || directionSplitted[i].compareTo("QUIT") == 0) {
+                    direction = "Q";
+                }
+            }
 
             if(exits.containsKey(direction)) {
                 loc = exits.get(direction);
